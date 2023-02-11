@@ -21,16 +21,15 @@
   <a href = "mailto:ricknevesbc@icloud.com"><img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=whit" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-neves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  ## Games
-<p>
-  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
-  <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" align="right">
-</p>
-<div>
 
-<a href="#"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
-<a href="#"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></a> 
-<a href="#"><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"></a> 
-<a href="#"><img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"></a> 
-<a href="#"><img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"></a> 
+  ## Games
+<div>
+  <p>
+    <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
+  </p>
+  <a href="#"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"></a> 
 </div>
