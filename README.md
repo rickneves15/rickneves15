@@ -27,14 +27,10 @@
   <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" align="right">
 </p>
 <div>
-<a href="https://www.linkedin.com/in/richard-neves/" target="_blank"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/richard-neves/" target="_blank"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/richard-neves/" target="_blank"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/richard-neves/" target="_blank"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/richard-neves/" target="_blank"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
-</div>
+
 <a href="#"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
 <a href="#"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></a> 
 <a href="#"><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"></a> 
 <a href="#"><img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"></a> 
 <a href="#"><img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"></a> 
+</div>
