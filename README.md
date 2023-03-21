@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+  
+## 💻 introduction
+
+Hi!  My name is [Richard Neves](https://www.linkedin.com/in/andresamaciel/)
+
+I'm a brazilian full-stack developer.
+Besides coding, I also enjoy playing videogames and watch movies.
+
+Open to work. 
+
+## 💻 Techs
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
