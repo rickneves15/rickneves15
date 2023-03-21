@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   
-## 💻 introduction
+## :technologist: introduction
 
 Hi!  My name is [Richard Neves](https://www.linkedin.com/in/andresamaciel/)
 
