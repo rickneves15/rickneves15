@@ -10,7 +10,7 @@ Besides coding, I also enjoy playing videogames and watch movies.
 
 Open to work. 
 
-## 💻 Techs
+## :desktop_computer: Techs
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,14 +26,14 @@ Open to work.
   <img align="center" alt="Rick-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
   
-  ## Socials
+  ## :left_speech_bubble: Socials
  
 <div>
   <a href = "mailto:ricknevesbc@icloud.com"><img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=whit" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-neves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## ⚡ GitHub statistics
+## :zap: GitHub statistics
 <div style="display: inline_block">
 <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=rickneves15&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rickneves15&" alt="rickneves15" />
 </div>
@@ -43,7 +43,7 @@ Open to work.
 </div>
 
 
-  ## Games
+  ## :video_game: Games
 <div>
   <a href="#"><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a> 
   <a href="#"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"></a> 
