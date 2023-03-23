@@ -35,11 +35,13 @@ Open to work.
 
 ## :zap: GitHub statistics
 <div style="display: inline_block">
-<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=rickneves15&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rickneves15&" alt="rickneves15" />
+<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=rickneves15&count_private=true&show_icons=true&theme=defaut" />
+![Rick Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickneves15&show_icons=true&theme=panda)
+
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickneves15&layout=compact&theme=defaut" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickneves15&layout=compact&theme=panda " />
 </div>
 
 
