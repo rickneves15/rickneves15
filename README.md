@@ -34,7 +34,13 @@ Open to work.
 </div>
 
 ## :zap: GitHub statistics
-<div style="display: inline_block">
+<div style="
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rickneves15&count_private=true&show_icons=true&theme=panda" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickneves15&layout=compact&theme=panda" />
 </div>
