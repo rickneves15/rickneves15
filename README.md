@@ -35,8 +35,8 @@ Open to work.
 
 ## :zap: GitHub statistics
 <div style="display: inline_block">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=rickneves15&count_private=true&show_icons=true&theme=panda" />
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickneves15&layout=compact&theme=panda" />
+  <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=rickneves15&count_private=true&show_icons=true&theme=panda" />
+  <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickneves15&layout=compact&theme=panda" />
 </div>
 
   ## :video_game: Games
