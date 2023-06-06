@@ -5,7 +5,7 @@
 
 Hi!  My name is [Richard Neves](https://www.linkedin.com/in/andresamaciel/)
 
-I'm a brazilian full-stack developer.
+I'm a brazilian full-stack engineer.
 Besides coding, I also enjoy playing videogames and watch movies.
 
 Open to work. 
